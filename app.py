@@ -1,3 +1,3 @@
 print("Welcome to my Python Program.")
 
-hours = input("How many hours did you study today? ")
+saving = input("How many did you save this month? ")
