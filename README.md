@@ -4,7 +4,7 @@ Description: The program helps users estimate how much they will save in a year 
 
 How to run:
   python app.py
-  # or
+  or
   python3 app.py
 
 Example Interactio/ Output:
